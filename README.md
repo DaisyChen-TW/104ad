@@ -23,6 +23,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # 104ad
-# 104ad
-# 104asignment
-# 104asignment
